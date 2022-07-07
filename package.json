@@ -13,7 +13,7 @@
     "bcryptjs": "^2.4.3",
     "jquery": "^3.6.0",
     "magic-sdk": "^4.2.1",
-    "moment": "^2.29.1",
+    "moment": "^2.29.4",
     "next": "10.1.2",
     "popper.js": "^1.16.1",
     "react": "17.0.2",

@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@heroicons/react": "^1.0.0",
-    "axios": "^0.21.1",
+    "axios": "^1.6.0",
     "bcryptjs": "^2.4.3",
     "jquery": "^3.6.0",
     "magic-sdk": "^4.2.1",
